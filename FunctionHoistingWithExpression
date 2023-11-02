@@ -1,4 +1,0 @@
-greet();
-let greet = function(){
-    console.log("Hi there");
-}
